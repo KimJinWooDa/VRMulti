@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6b8390e41dd6c4ab02b89659a79ee4, type: 3}
+  m_Name: AI
+  m_EditorClassIdentifier: 
+  m_Guid: 8393b64eb87f014599f179f8b76de924
+  CharacterClass: {fileID: 11400000, guid: 509ff8e372772c84d92b465a53f0f4c4, type: 2}
+  Graphics: {fileID: 919132149155446097, guid: 09aa3cb6b806d564e825e00a3ff1b702, type: 3}
+  GraphicsCharacterSelect: {fileID: 0}
+  Portrait: {fileID: 0}
